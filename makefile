@@ -1,5 +1,5 @@
 # Final Project - Chaos Crime Crew (C3)
-# Livia Barwick 
+# by livbar
 CXX = g++
 CXXFLAGS = -std=c++11
 
